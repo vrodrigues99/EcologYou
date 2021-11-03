@@ -20,7 +20,7 @@ export function Footer() {
 			<ul className={styles.box}>
 				<li className={styles.link_name}>Desenvolvedores</li>
 				<li><a href="https://www.linkedin.com/in/mesquini/">Victor Mesquini</a></li>
-				<li><a href="https://www.linkedin.com/in/victorrodrigues99/">Vitor Rodrigues</a></li>
+				<li><a href="https://www.linkedin.com/in/victorrodrigues99/">Victor Rodrigues</a></li>
 				<li><a href="https://www.linkedin.com/in/thiago-melo-b45344187/">Thiago Melo</a></li>
 				<li><a href="https://www.linkedin.com/in/joao-assumps/">João Assumpção</a></li>
 			
